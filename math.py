@@ -6,7 +6,7 @@ def add(x,y):
 #subtract 1
 #another change
 def subtract(x,y):
-    return x-y
+    return 2(x)-2(y)
 
 #multiply header 1
 def multiply(x,y):
